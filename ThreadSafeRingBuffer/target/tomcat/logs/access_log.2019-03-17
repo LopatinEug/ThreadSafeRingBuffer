@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [17/Mar/2019:18:36:14 +0200] "GET /thread-safe-ring-buffer/services/elements HTTP/1.1" 404 967 http-bio-8080-exec-1 88
+0:0:0:0:0:0:0:1 - - [17/Mar/2019:18:36:27 +0200] "GET /thread-safe-ring-buffer/services/elements/get HTTP/1.1" 200 107 http-bio-8080-exec-3 291
+0:0:0:0:0:0:0:1 - - [17/Mar/2019:18:36:37 +0200] "GET /thread-safe-ring-buffer/services/elements/get HTTP/1.1" 200 107 http-bio-8080-exec-5 5
