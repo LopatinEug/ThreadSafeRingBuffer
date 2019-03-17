@@ -6,7 +6,7 @@ First u need to run clean and install maven commands
 ```
 mvn clean install
 ```
-war is running on tomcat in embded mode, to run - use romcat plugin
+war is running on tomcat in embded mode, to run - use tomcat maven plugin
 ```
 tomcat7:run-war:
 ```
